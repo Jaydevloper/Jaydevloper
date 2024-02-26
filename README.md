@@ -6,7 +6,6 @@ FRONTEND ENGINEER
 
 * 🌍  I'm based in Узбекистан
 * ✉️  You can contact me at [jayhanmirx@gmail.com](mailto:jayhanmirx@gmail.com)
-* 🤝  I'm open to collaborating on dacoreite and Eurosoft
 
 ### Skills
 
