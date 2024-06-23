@@ -20,8 +20,8 @@ FRONTEND ENGINEER
 <p align="left"> <a href="https://www.github.com/Jaydevloper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/jakhangir-radjabov-9784a3248/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jayhanmirx?text=heatmap) 
-<div>
 <b>My GitHub Stats</b>
+<p aligin="left">
 <a href="http://www.github.com/Jaydevloper"><img src="https://github-readme-stats.vercel.app/api?username=Jaydevloper&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jaydevloper's GitHub stats" /></a>
 <a href="https://github.com/Jaydevloper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydevloper&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+</p>
