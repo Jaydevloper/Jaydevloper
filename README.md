@@ -21,7 +21,8 @@ FRONTEND ENGINEER
 
 <b>My GitHub Stats</b>
 <p aligin="left">
-![Leetcode Stats](https://leetcard.jacoblin.cool/jayhanmirx?text=heatmap) 
+
 <a href="http://www.github.com/Jaydevloper"><img src="https://github-readme-stats.vercel.app/api?username=Jaydevloper&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jaydevloper's GitHub stats" /></a>
 <a href="https://github.com/Jaydevloper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydevloper&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/jayhanmirx?text=heatmap) 
